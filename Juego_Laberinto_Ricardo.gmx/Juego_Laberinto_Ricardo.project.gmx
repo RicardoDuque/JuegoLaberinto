@@ -36,6 +36,11 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\sprite18</sprite>
+    <sprite>sprites\spr_monster33</sprite>
+    <sprite>sprites\spr_monster11</sprite>
+    <sprite>sprites\spr_wall1</sprite>
+    <sprite>sprites\spr_door1</sprite>
+    <sprite>sprites\spr_player1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_start</background>
@@ -43,6 +48,7 @@
     <background>background\background2</background>
     <background>background\background3</background>
     <background>background\background4</background>
+    <background>background\background5</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -85,7 +91,7 @@
     <room>rooms\Level2</room>
     <room>rooms\Level3</room>
     <room>rooms\Level4</room>
-    <room>rooms\room5</room>
+    <room>rooms\Final</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
